@@ -57,3 +57,7 @@
 <p>
   <a href="https://docs.github.com/ru/issues/tracking-your-work-with-issues/creating-an-issue">Creating an issue</a>
 </p>
+
+<p>
+  Two Issue))) to <a href="https://github.com/MagEk1511/jsfullstack_homework">
+</p>
