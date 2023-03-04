@@ -55,5 +55,5 @@
 </p>
 
 <p>
-  Creating an issue: <a>https://docs.github.com/ru/issues/tracking-your-work-with-issues/creating-an-issue</a>
+  <a href="https://docs.github.com/ru/issues/tracking-your-work-with-issues/creating-an-issue">Creating an issue</a>
 </p>
