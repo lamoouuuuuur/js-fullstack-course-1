@@ -59,5 +59,5 @@
 </p>
 
 <p>
-  Two Issue))) to <a href="https://github.com/MagEk1511/jsfullstack_homework">
+  Two Issue))) to <a href="https://github.com/MagEk1511/jsfullstack_homework">this repo<a>
 </p>
