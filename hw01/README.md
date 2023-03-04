@@ -36,7 +36,7 @@
             <code>git push</code>. Но вылетит ошибка, потому что такой ветки еще нет на сервере. Поэтому пропишем <code>git push --set-upstream origin pulltest</code>.
         </li>
         <li>
-            В Github переходим на нашу ветку и создаем там Pull request. Там кликаем Pull request.
+            В Github переходим на нашу ветку и создаем там Pull request. Везде будут подсказки.
         </li>
         <li>
             <code>git checkout main</code>. Переходим на нашу главную ветку.
