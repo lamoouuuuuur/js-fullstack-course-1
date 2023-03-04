@@ -27,7 +27,7 @@
             <code>git checkout pulltest</code>. Переключаемся на новую ветку.
         </li>
         <li>
-            <code>git add .</code>. Добавляем файлы.
+            <code>git add .</code> Добавляем файлы.
         </li>
         <li>
             <code>git commit -m "Simple Server"</code>. Коммитим
