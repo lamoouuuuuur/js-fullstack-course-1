@@ -48,3 +48,12 @@
             <code>git branch --delete pulltest</code>. Удаляем ветку со своего локального репозитория.
         </li>
 </ol>
+
+### Task №2
+<p>
+  Issue - это система учета ошибок.
+</p>
+
+<p>
+  Creating an issue: <a>https://docs.github.com/ru/issues/tracking-your-work-with-issues/creating-an-issue</a>
+</p>
